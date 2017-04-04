@@ -7,9 +7,9 @@ The run_analyis script is the "tidying" and merging of two datasets (test & trai
 Furthermore, the new data set calculates the mean of each of the 79 variables from the resulting 10,299 observations, while also taking the mean values of each of the 6 activity levels (walking, walking upstairs, walking downstairs, standing, sitting and laying).  
 
 This dataset includes the following: 
--README.md
--CodeBook.md - explanation of variables
--Run_analysis.R - explanation of the data processing
+- README.md
+- CodeBook.md - explanation of variables
+- Run_analysis.R - explanation of the data processing
 
 
 
